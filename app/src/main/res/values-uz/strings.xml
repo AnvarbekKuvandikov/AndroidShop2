@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Android do\'kon 2</string>
+<string name="login">Kirish</string>
+<string name="network_not">Tarmoq bilan ulanish yo\'q !!!</string>
+<string name="password">Parol</string>
+<string name="welcome">Xush kelibzis !!!</string>
+    <string name="username">Login</string>
+    <string name="home">Asosiy</string>
+    <string name="home_menu1">Bosh sahifa</string>
+    <string name="home_menu2">Savdo</string>
+    <string name="home_menu3">Cheklar</string>
+    <string name="warehouse_menu1">Kirim</string>
+    <string name="warehouse_menu2">Tovarlar qoldig\'i</string>
+    <string name="warehouse">Omborxona</string>
+    <string name="customers">Xaridorlar</string>
+</resources>

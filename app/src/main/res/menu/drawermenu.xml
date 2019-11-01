@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ShowIn="navigation_view"
+    >
+    <group>
+        <item android:id="@+id/home"
+            android:title="@string/home">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item android:id="@+id/home_menu1"
+                        android:title="@string/home_menu1"
+                        android:icon="@drawable/ic_home" />
+
+                    <item android:id="@+id/home_menu2"
+                        android:title="@string/home_menu2"
+                        android:icon="@drawable/ic_shopping_cart" />
+
+                    <item android:id="@+id/home_menu3"
+                        android:title="@string/home_menu3"
+                        android:icon="@drawable/ic_newspaper" />
+                </group>
+            </menu>
+        </item>
+    </group>
+
+    <group>
+        <item android:id="@+id/wherehouse"
+            android:title="@string/warehouse"
+            >
+            <menu>
+                <group>
+                    <item android:id="@+id/wherehouse_menu1"
+                        android:title="@string/warehouse_menu1"
+                        android:icon="@drawable/ic_strolley"
+                        />
+                    <item android:id="@+id/wherehouse_menu2"
+                        android:title="@string/warehouse_menu2"
+                        android:icon="@drawable/ic_storage_box"
+                        />
+                </group>
+            </menu>
+        </item>
+    </group>
+
+    <group>
+        <item android:id="@+id/customers"
+            android:title="@string/customers">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item android:id="@+id/customers_list"
+                        android:title="@string/customers"
+                        android:icon="@drawable/ic_customers_clients"/>
+
+                </group>
+
+            </menu>
+        </item>
+
+    </group>
+
+
+</menu>

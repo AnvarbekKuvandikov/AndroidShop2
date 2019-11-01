@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android магазин 2</string>
+    <string name="login">Войти</string>
+    <string name="network_not">Нет сетевого подключения !!!</string>
+    <string name="password">Пароль</string>
+    <string name="welcome">Добро пожаловать !!!</string>
+    <string name="username">Логин</string>
+    <string name="home">Главная</string>
+    <string name="home_menu1">Главная страница</string>
+    <string name="home_menu2">Продажь</string>
+    <string name="home_menu3">Чеки</string>
+    <string name="warehouse_menu1">"Приходь "</string>
+    <string name="warehouse_menu2">Остаток товара</string>
+    <string name="warehouse">Склад</string>
+    <string name="customers">Клиенты</string>
+</resources>

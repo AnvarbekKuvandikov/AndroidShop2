@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android магазин 2</string>
+    <string name="welcome">Welcome !!!</string>
+    <string name="login">Log in</string>
+    <string name="password">Password</string>
+    <string name="network_not">No network connection !!!</string>
+    <string name="username">Username</string>
+    <string name="home">Home</string>
+    <string name="home_menu1">Home page</string>
+    <string name="home_menu2">Make a sell</string>
+    <string name="home_menu3">Cashs</string>
+    <string name="warehouse_menu1">In Coming</string>
+    <string name="warehouse_menu2">Residue of Goods</string>
+    <string name="warehouse">Warehouse</string>
+    <string name="customers">Customers</string>
+</resources>
